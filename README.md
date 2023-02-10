@@ -1,2 +1,2 @@
-# test1
+# Practica 3.1
 descripció
